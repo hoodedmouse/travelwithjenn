@@ -267,6 +267,7 @@ h6 {
 
     .main__content--left {
       width: auto;
+      border-radius: 0;
     }
 
     .main__content--left-top {
@@ -300,6 +301,7 @@ h6 {
       padding: 2.5rem 1rem;
       flex: 1;
       justify-content: flex-start;
+      border-radius: 0;
     }
 
     .main__content--right-contact {
@@ -405,6 +407,7 @@ h6 {
 
     .main__content--left {
       width: auto;
+      border-radius: 0;
     }
 
     .main__content--left-top {
@@ -438,6 +441,7 @@ h6 {
       padding: 2.5rem 1rem;
       flex: 1;
       justify-content: flex-start;
+      border-radius: 0;
     }
 
     .main__content--right-contact {
